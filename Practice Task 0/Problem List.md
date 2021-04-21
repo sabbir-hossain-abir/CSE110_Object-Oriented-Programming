@@ -1,7 +1,6 @@
 Please Note : You don't have to take input and don't have to apply any logic
 
-Practice Problem Set 0
-
+# Practice Problem Set 0
 
 1. Print the message “Hello World!” on one line
 
@@ -17,17 +16,18 @@ Practice Problem Set 0
 4 5 6
 7 8 9 10
 
-		 1
-	             2 3
-	          4 5 6
-	      7 8 9 10
+	 1
+       2 3
+     4 5 6
+  7 8 9 10
 
 
 
-Practice Problem Set 1.1
+# Practice Problem Set 1.1
 
 2. Write a program that asks the user to enter two numbers, obtains them from the user and prints their sum,
     product, difference, quotient and remainder.
+
 Examples Input:
 1 2 3
 Output:
@@ -46,17 +46,18 @@ Employee 1 receives $3465
 
 
 
-Practice Problem Set 2
+# Practice Problem Set 2
 
 1. Write a program that asks the user to enter an integer and checks whether it is divisible by 3 or 5.
-Examples
-Input Input
+
+Examples Input &  Output
+Input
 15 3
-Output Output
+Output
 Divisible by 3 and 5 Divisible by 3
-Input Input
+Input
 10 17
-Output Output
+Output 
 Divisible by 5 Not divisible by 3 or 5
 
 2. Following is the income tax percentage a person has to give according to his salary range:
@@ -96,7 +97,7 @@ $166.00 $39.00
 
 
 
-Practice Problem Set 3
+# Practice Problem Set 3
 1. Write a Java program that takes an integer n as input and print all odd numbers from 1 to n.
 Examples
 Input
@@ -137,7 +138,7 @@ Input
 Output
 17
 
-Practice Problem Set 5
+# Practice Problem Set 5
 1. Write a C program that adds 2 to the even indexed elements and 3 to the odd indexed elements.
 Examples
 Input
@@ -173,6 +174,6 @@ Input Array: 1 -2 0 4 -5 7 1 -3 5
 Array Size: 9
 Input Array: 1 -2 0 -4 -5 7 -1 3 5
 
-Output Output
+Output
 Major Positive Neutral
 
