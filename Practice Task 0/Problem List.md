@@ -11,15 +11,18 @@ Please Note : You don't have to take input and don't have to apply any logic
     Print the message "This is a C program." with the words separated by tabs.
 3. Write a program that prints the following patterns separately.
 
-1
-2 3
-4 5 6
-7 8 9 10
 
-	 1
-       2 3
+
+Print the pattern same as this. No need to apply any logic. Just write the numbers in the print statement.
+
+	    1
+          2 3
+        4 5 6
+     7 8 9 10
+     1
+     2 3
      4 5 6
-  7 8 9 10
+     7 8 9 10
 
 
 
