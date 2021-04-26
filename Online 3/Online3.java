@@ -1,7 +1,3 @@
-//Name: Sabbir Hossain Abir
-//ID: 2020-2-60-185
-
-
 interface I1{
     void f1();
     default void f2(){
